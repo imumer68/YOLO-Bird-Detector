@@ -1,0 +1,13 @@
+path: D:/Python Stuff/Datasets/Mouse
+train: train/images
+val: valid/images
+
+nc: 2
+names: ['Drone', 'bird']
+
+roboflow:
+  workspace: final-dataset-z8tc1
+  project: birds-and-drones
+  version: 7
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/final-dataset-z8tc1/birds-and-drones/dataset/7
